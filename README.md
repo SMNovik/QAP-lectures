@@ -1,1 +1,2 @@
-# QAP-lectures
+# QAP
+For QAP course
